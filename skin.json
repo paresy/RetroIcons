@@ -1,0 +1,10 @@
+{
+    "author": "IP-Symcon User",
+    "version": "1.0",
+    "compatible": 1,
+    "url": "http:\/\/www.ip-symcon.de\/forum\/",
+    "git": "https:\/\/github.com\/paresy\/RetroIcons.git",
+    "icons": [
+        "Transparent"
+    ]
+}
